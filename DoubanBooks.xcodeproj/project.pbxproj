@@ -23,6 +23,7 @@
 		BA8553F2235173C90070C334 /* VMCategry.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8553F1235173C90070C334 /* VMCategry.swift */; };
 		BA8553F42351753C0070C334 /* CategoryRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8553F32351753C0070C334 /* CategoryRepository.swift */; };
 		BA8553F6235187380070C334 /* DataError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8553F5235187380070C334 /* DataError.swift */; };
+		BA8B67B1235950A7006BF726 /* File2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8B67B0235950A7006BF726 /* File2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		BA8553F1235173C90070C334 /* VMCategry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VMCategry.swift; sourceTree = "<group>"; };
 		BA8553F32351753C0070C334 /* CategoryRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRepository.swift; sourceTree = "<group>"; };
 		BA8553F5235187380070C334 /* DataError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataError.swift; sourceTree = "<group>"; };
+		BA8B67B0235950A7006BF726 /* File2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 		BA8553ED235171D50070C334 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				BA8B67B0235950A7006BF726 /* File2.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 				BA8553F6235187380070C334 /* DataError.swift in Sources */,
 				BA8553F2235173C90070C334 /* VMCategry.swift in Sources */,
 				BA3662D42355A98600F59CA5 /* BookRepository.swift in Sources */,
+				BA8B67B1235950A7006BF726 /* File2.swift in Sources */,
 				BA8553B9235152D90070C334 /* ViewController.swift in Sources */,
 				BA6742A02353F5D900324A39 /* CategoryFactory.swift in Sources */,
 				BA6742A22354263E00324A39 /* Books.swift in Sources */,
